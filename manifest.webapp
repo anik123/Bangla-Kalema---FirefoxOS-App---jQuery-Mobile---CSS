@@ -1,0 +1,20 @@
+{
+  "name": "Bangla Kalema",
+  "description": "Kalma is the first pillar of islam.Kalma is the basic principle that connects the person to Islamic spirit.There are six kalma mentioned in this app. The app inculcates 6 Kalmas that are compulsory for every Muslim to learn by heart.",
+  "launch_path": "/index.html",
+  "icons": {
+    "16": "/icons/icon16x16.png",
+    "48": "/icons/icon48x48.png",
+    "60": "/icons/icon60x60.png",
+    "128": "/icons/icon128x128.png"
+  },"orientation": "portrait",
+  "default_locale": "en",
+  "developer": {
+    "name": "OmeletIT",
+    "url": "http://omleteit.com"
+  },
+  "permissions": {
+      "audio-channel-content":{"description":  "Using this for play kalma in background"}
+   },
+   "version": "1.0"
+}
