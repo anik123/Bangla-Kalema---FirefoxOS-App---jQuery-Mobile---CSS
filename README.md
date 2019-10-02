@@ -1,6 +1,6 @@
 # Bangla Kalema | FirefoxOS App | jQuery Mobile | CSS
 
-[Marketplace Link](https://marketplace.firefox.com/app/bangla-kalema?src=search)
+[DEMO](https://anik123.github.io/Bangla-Kalema---FirefoxOS-App---jQuery-Mobile---CSS/)
 
 Kalemah is the first compulsory pillar of Islam. Kalemah is the basic principle that connects the person to Islamic spirit. The app inculcates 6 Kalemah that are compulsory for every Muslim to learn by heart.
 
